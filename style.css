@@ -1,0 +1,41 @@
+body {
+    display: inline-block;
+    width:px;
+    text-align: left;
+    background-image: url(img/fundo.png);
+
+}
+.div_logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.cabecalho {
+    
+    font-size: 20px;
+    text-decoration: none;
+   
+}
+
+.titulo {       
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 10px;
+    
+
+}
+
+.texto {
+    display: inline-flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+
+}
+
+.rodape {
+    font-weight: bold;
+    text-align: center;
+}   
